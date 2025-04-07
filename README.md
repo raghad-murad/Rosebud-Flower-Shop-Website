@@ -81,12 +81,12 @@ This project aims to create an elegant and user-friendly website for a flower sh
 #### **How to Run Locally**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/competition3.git
+   git clone https://github.com/your-username/Rosebud-Flower-Shop-Website.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd competition3
+   cd Rosebud-Flower-Shop-Website
    ```
 
 3. Open the `index.html` file in your preferred web browser:
