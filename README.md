@@ -101,7 +101,7 @@ This project aims to create an elegant and user-friendly website for a flower sh
 ### **Folder Structure**
 
 ```
-competition3/
+Rosebud-Flower-Shop-Website/
 ├── images/
 │   ├── img01.jpg
 │   ├── img02.jpg
@@ -115,27 +115,6 @@ competition3/
 - **index.html**: The main HTML file.
 - **style.css**: Custom CSS styles for the website.
 - **main.js**: JavaScript file (currently empty but included for future enhancements).
-
----
-
-### **Contributing**
-
-We welcome contributions! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/new-feature
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/new-feature
-   ```
-5. Open a Pull Request describing your changes.
 
 ---
 
